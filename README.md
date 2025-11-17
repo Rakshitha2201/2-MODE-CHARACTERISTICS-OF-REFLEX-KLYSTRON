@@ -78,7 +78,18 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 12.	If the main supply failed in the middle of the experiment, come to 1st condition (i.e.)keep all the knobs in minimum positions and switch off main switches.
 13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
-    **Result:**
+**Graph:**
+
+![WhatsApp Image 2025-11-17 at 8 49 41 PM](https://github.com/user-attachments/assets/fd82455d-afbf-48e8-9d8d-e9998e4b6b02)
+
+
+**Result:**
+
+Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.
+
+
+
+
    	
 			
 			
